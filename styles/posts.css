@@ -1,0 +1,13 @@
+#posts{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: #c6a9a3;
+    text-align: center;
+}
+
+#posts h1{
+    margin:auto;
+    font-size: 100px;
+    margin-top:10%;
+}
